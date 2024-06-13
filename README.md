@@ -1,18 +1,8 @@
-## Getting Started
+# Desafio de projeto:<br>Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ Desafio proposto pela DIO no Bootcamp: "Santander 2024 - Backend com Java". 
 
-## Folder Structure
+Para realização do desafio proposto, foram utilizados os conceitos de UML, desde a diagramação do projeto até a codificação do mesmo.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Modelagem UML:
+![](images/iPhoneUML.svg)
