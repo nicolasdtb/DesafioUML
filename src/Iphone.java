@@ -22,6 +22,7 @@ public class Iphone {
 
         //Utilização da classe AparelhoTelefônico
         System.out.println("Abrindo telefone...");
+        apt.iniciarCorreioVoz();
         boolean temp = apt.ligar("51998877665");
         if (temp){
             apt.desligar();
